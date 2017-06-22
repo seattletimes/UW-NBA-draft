@@ -9,12 +9,12 @@
       "path": "2017/sports/UW-NBA-draft"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "http://projects.seattletimes.com/2017/sports/UW-NBA-draft/",
+  "title": "A look at the UW Huskies in the NBA",
+  "description": "With Markelle Fultz headed to the NBA, here's a look at the other 7 active Huskies in the league.",
+  "url": "http://projects.seattletimes.com/2017/sports/UW-Huskies-in-NBA",
   "slug": "",
   "tags": ["interactive", "parallax"],
-  "image": "",
-  "production": false,
+  "image": "/assets/startimessocial.jpg",
+  "production": true,
   "sheets": ["189L8Ow4UXRi4iuP40aa0HxnXbe548PcFV0OqOqIyi1w"]
 }
